@@ -1,7 +1,7 @@
 //import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import profile_img from '../../assets/about_profile.svg'
+import profile from '../../assets/pictures/profile_four.svg'
 
 const About = () => {
   return (
@@ -12,7 +12,7 @@ const About = () => {
         </div>
         <div className='about-sections'>
             <div className="about-left">
-                <img src={profile_img} alt="" />
+                <img src={profile} alt="" />
             </div>
             <div className="about-right">
                 <div className="about-para">
