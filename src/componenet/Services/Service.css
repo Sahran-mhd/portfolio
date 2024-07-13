@@ -55,7 +55,7 @@
     background: linear-gradient(270deg, #DF8908 50%, #B415FF 100%);
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    
 }
 
 .services-format p {

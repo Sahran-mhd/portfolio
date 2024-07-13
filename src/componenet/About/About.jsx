@@ -1,6 +1,6 @@
 //import React from 'react'
 import './About.css'
-import theme_pattern from '../../assets/theme_pattern.svg'
+//import theme_pattern from '../../assets/theme_pattern.svg'
 import profile from '../../assets/pictures/profile_four.svg'
 
 const About = () => {
@@ -8,7 +8,7 @@ const About = () => {
     <div id='about' className="about">
         <div className="about-title">
             <h1>About me</h1>
-            <img src={theme_pattern} alt="" />
+            
         </div>
         <div className='about-sections'>
             <div className="about-left">
