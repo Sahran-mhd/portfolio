@@ -99,15 +99,26 @@
         flex-direction: column;
         gap: 30px;
         margin-bottom: 30px;
+        font-size: 18px;
     }
+    .footer-top-left p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    
 }
 
 @media (max-width: 576px) {
     .footer {
         margin: 30px 30px;
+        gap: 15px;
+    }
+    .footer-top{
+        gap: 15px;
     }
     .footer-top-right{
         flex-direction: column;
+        gap: 15px;
     }
     .footer-email-input {
         padding: 20px 15px;
@@ -119,14 +130,22 @@
     }
 
     .footer-top-left p {
-        font-size: 18px;
+        font-size: 16px;
+        line-height: 24px;
     }
 
     .footer-bottom {
         gap: 20px;
     }
 
-    .footer-bottom-right {
-        gap: 20px;
+    .footer-bottom p{
+        font-size: 16px;
     }
+    .footer-bottom-right {
+        flex-direction: column;
+        gap: 15px;
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+    
 }

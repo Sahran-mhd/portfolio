@@ -142,8 +142,9 @@
     }
 
     .about-title h1 {
-        font-size: 50px;
+        font-size: 32px;
         padding: 0;
+        
     }
 
     .about-title img {
@@ -160,8 +161,8 @@
     }
 
     .about-para {
-        font-size: 22px;
-        line-height: 32px;
+        font-size: 18px;
+        line-height: 27px;
     }
 
     .about-skill {
@@ -171,7 +172,7 @@
     
     .about-skill p {
         
-        font-size: 22px;
+        font-size: 18px;
     }
 
     .about-skill hr {
@@ -188,13 +189,13 @@
     }
 
     .about-achievement h1 {
-        font-size: 34px;
+        font-size: 32px;
         font-weight: 700;
     }
 
     .about-achievement p {
         text-align: center;
-        font-size: 22px;
+        font-size: 18px;
     }
 }
 
@@ -207,7 +208,7 @@
         gap: 40px;
     }
     .about-title h1 {
-        font-size: 40px;
+        font-size: 32px;
     }
 
     .about-achievement h1 {
